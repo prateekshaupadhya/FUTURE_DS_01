@@ -1,2 +1,23 @@
-# FUTURE_DS_01
-I worked on a Business Sales Performance Analytics project where I analyzed sales data to uncover meaningful insights and support business decision-making.   Key Highlights: • Analyzed revenue trends over time • Identified top-selling products • Evaluated category and regional performance  .  Tools Used: Power BI .
+# Business Sales Performance Analytics
+
+## 📊 Project Overview
+
+This project analyzes business sales data to identify revenue trends, top-selling products, category performance, and regional insights.
+
+## 🛠 Tools Used
+
+* Power BI
+* Excel
+
+## 🔍 Key Insights
+
+* Identified top-performing products
+* Analyzed sales trends over time
+* Compared regional and category performance
+
+## 💡 Recommendations
+
+* Focus on top-selling products
+* Improve low-performing regions
+* Expand high-value categories
+
